@@ -1,0 +1,7 @@
+/Users/srinidhisivakumar/Documents/Projects2005/Dotnetapp/SrinidhiWebApp/bin/Release/net8.0/publish/SrinidhiWebApp
+/Users/srinidhisivakumar/Documents/Projects2005/Dotnetapp/SrinidhiWebApp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/srinidhisivakumar/Documents/Projects2005/Dotnetapp/SrinidhiWebApp/bin/Release/net8.0/publish/appsettings.json
+/Users/srinidhisivakumar/Documents/Projects2005/Dotnetapp/SrinidhiWebApp/bin/Release/net8.0/publish/SrinidhiWebApp.dll
+/Users/srinidhisivakumar/Documents/Projects2005/Dotnetapp/SrinidhiWebApp/bin/Release/net8.0/publish/SrinidhiWebApp.deps.json
+/Users/srinidhisivakumar/Documents/Projects2005/Dotnetapp/SrinidhiWebApp/bin/Release/net8.0/publish/SrinidhiWebApp.runtimeconfig.json
+/Users/srinidhisivakumar/Documents/Projects2005/Dotnetapp/SrinidhiWebApp/bin/Release/net8.0/publish/SrinidhiWebApp.pdb
